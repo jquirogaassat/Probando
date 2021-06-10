@@ -10,7 +10,7 @@ namespace BLL
     {
         public cliente clientea { get; set; }
 
-        public manzana manzana1 { get; set; }
+        
 
 
     }

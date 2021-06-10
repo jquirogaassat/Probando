@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace BLL
 {
-     public class manzana :frutasYverduras
-    {   
-        public pedido pedido1 { get; set; }
-        
+    public abstract class frutasYverduras
+    {
+        public int cantidad { get; set; }
+
 
     }
 }

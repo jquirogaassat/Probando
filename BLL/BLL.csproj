@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="cliente.cs" />
+    <Compile Include="frutasYverduras.cs" />
     <Compile Include="manzana.cs" />
     <Compile Include="pedido.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
