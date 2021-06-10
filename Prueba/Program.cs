@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BLL
+namespace Prueba
 {
-    public class Class1
+    class Program
     {
-
+        static void Main(string[] args)
+        {
+        }
     }
 }
