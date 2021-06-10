@@ -11,6 +11,7 @@ namespace Prueba
         static void Main(string[] args)
         {
             BLL.cliente jorge = new BLL.cliente();
+            jorge.pedido
 
         }
     }
