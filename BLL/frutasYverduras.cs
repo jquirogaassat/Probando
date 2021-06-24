@@ -11,6 +11,8 @@ namespace BLL
         public int cantidad { get; set; }
         public int precio { get; set; }
 
+        public string nombre { get; set; }
+
 
     }
 }
