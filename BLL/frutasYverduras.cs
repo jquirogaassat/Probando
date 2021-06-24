@@ -9,6 +9,7 @@ namespace BLL
     public abstract class frutasYverduras
     {
         public int cantidad { get; set; }
+        public int precio { get; set; }
 
 
     }
